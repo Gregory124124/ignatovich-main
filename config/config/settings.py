@@ -31,7 +31,6 @@ INSTALLED_APPS = [
     'about',
     'users',
     'galery',
-    'django_filters',
 ]
 
 AUTH_USER_MODEL = 'users.User'
